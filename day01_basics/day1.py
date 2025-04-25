@@ -26,16 +26,3 @@ a=6
 b=4
 print("Devidision of two numbers: ",a/b)
 
-# Write a Python program that asks for your age and prints it.
-a=int(input("What is your age? "))
-print("Your Age is: ", a)
-
-# Write a Python program to demonstrate the type() function on various variables.
-a=4
-b="Test"
-c=1.4
-d={"name":"Pankaj","Age":34}
-type(a)
-type(b)
-type(c)
-type(d)
