@@ -38,10 +38,10 @@ python-learning/
 ## 🧬 Topics Covered (so far)
 
 - ✅ Python Syntax & Basics  
-- ⏳ Lists, Tuples, Dictionaries, Sets  
-- ⏳ Loops (for, while)  
-- ⏳ File Handling  
-- ⏳ Conditional Statements (if/elif/else)  
+- ✅ Lists, Tuples, Dictionaries, Sets  
+- ✅ Loops (for, while)  
+- ✅ File Handling  
+- ✅ Conditional Statements (if/elif/else)  
 - ⏳ Functions & Recursion  
 - ⏳ Object-Oriented Programming (OOP)  
 - ⏳ Exception Handling  
