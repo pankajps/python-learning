@@ -19,12 +19,14 @@ This repository is a collection of daily Python exercises, concepts, and mini-pr
 ```
 python-learning/
 │
-├── day01_intro/
-│   ├── hello_world.py
-│   └── variables_and_datatypes.py
+├── day01_basics/
+│   ├── input.py
+│   └── type.py
+│   └── day1_problems.md
+│   └── day1_result.md
 │
-├── day02_control_flow/
-│   ├── if_else.py
+├── day02_python_syntax/
+│   ├── day2_problems,md
 │   ├── loops.py
 │   └── pattern_problems.py
 │
