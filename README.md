@@ -27,11 +27,6 @@ python-learning/
 │
 ├── day02_python_syntax/
 │   ├── day2_problems,md
-│   ├── loops.py
-│   └── pattern_problems.py
-│
-│   ├── tuples.py
-│   └── dictionaries.py
 │
 ├── ...
 │
