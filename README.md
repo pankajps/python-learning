@@ -30,12 +30,6 @@ python-learning/
 │   ├── loops.py
 │   └── pattern_problems.py
 │
-├── day03_functions/
-│   ├── basic_functions.py
-│   └── recursion_examples.py
-│
-├── day04_data_structures/
-│   ├── lists.py
 │   ├── tuples.py
 │   └── dictionaries.py
 │
