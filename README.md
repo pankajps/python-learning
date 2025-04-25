@@ -64,7 +64,7 @@ python-learning/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/pankajps/python_practice.git
+   git clone https://github.com/pankajps/python-learning.git
    cd python-learning
    ```
 
