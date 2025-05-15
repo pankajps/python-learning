@@ -29,9 +29,20 @@ print(1 == 2)
 print()
 
 print("#Write a Python program to add two floating-point numbers.")
+f=2.1
+g=4.3
+print("Adding two floating numbers", f+g)
 print()
-print("#Write a Python program to display a complex number and its type.")
-print()
-print("#Write a Python program to demonstrate string manipulation (concatenate and length).")
 
+print("#Write a Python program to display a complex number and its type.")
+h=2+5j
+print("Type of complex number", type(h))
 print()
+
+print("#Write a Python program to demonstrate string manipulation (concatenate and length).")
+i="First "
+j="Second"
+k=i+j
+print("Concatenate of i and j string",k)
+print("length of both strings", len(k))
+
