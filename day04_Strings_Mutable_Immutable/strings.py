@@ -15,7 +15,8 @@ print("#Write a Python program to replace a substring in a string with another s
 print()
 
 print("#Write a Python program to find the length of a string.")
-
+d="Testing_String"
+print("Length of the string", len(d))
 print()
 
 print("#Write a Python program that extracts a substring from a string.")
