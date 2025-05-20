@@ -6,12 +6,9 @@ Write a Python program to extract a specific portion of a string using slicing a
 String slicing in Python allows access to a part of the string by specifying a range of indices using the syntax string[start:end]. This is useful when we want to extract substrings.
 
 This problem helps beginners understand how to:
-
-Use indexing and slicing with strings
-
-Access portions of strings
-
-Display substrings using the print() function
+* Use indexing and slicing with strings
+* Access portions of strings
+* Display substrings using the print() function
 
 Sample Program:
 
