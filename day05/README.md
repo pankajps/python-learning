@@ -1,4 +1,5 @@
 **Q1:** Write a Python program to slice a string and print a portion of it.
+
 **Objective:**
 Write a Python program to extract a specific portion of a string using slicing and display it.
 
@@ -19,6 +20,7 @@ print("Sliced string:", sliced_text)
 ```
 
 **Q2:** Write a Python program that uses strip() to remove leading and trailing whitespaces from a string.
+
 **Objective:**
 Write a Python program to remove leading and trailing spaces from a string using the strip() method.
 
@@ -39,6 +41,7 @@ print("Text after strip():", clean_text)
 ```
 
 **Q3:** Write a Python program to count occurrences of a character in a string.
+
 **Objective:**
 Write a Python program to count how many times a specific character appears in a string.
 
@@ -59,6 +62,7 @@ print("Occurrences of 'a':", count_a)
 ```
 
 **Q4:** Write a Python program that demonstrates the use of replace() method in strings.
+
 **Objective:**
 Write a Python program to replace a part of a string with another string using the replace() method.
 
@@ -79,6 +83,7 @@ print("Updated string:", new_text)
 ```
 
 **Q5: **Write a Python program to demonstrate the len() method for strings.
+
 **Objective:**
 Write a Python program to find and print the length of a string using the len() function.
 
@@ -99,6 +104,7 @@ print("Length of the string:", length)
 ```
 
 **Q6:** Write a Python program that concatenates two strings using + operator.
+
 **Objective:**
 Write a Python program to combine two strings into one using the + operator.
 
@@ -120,6 +126,7 @@ print("Concatenated string:", result)
 ```
 
 **Q7:** Write a Python program to convert a string into a list of words.
+
 **Objective:**
 Write a Python program to split a string into a list of words using the split() method.
 
@@ -140,6 +147,7 @@ print("List of words:", words)
 ```
 
 **Q8:** Write a Python program to check if a string starts with a specified prefix.
+
 **Objective:**
 Write a Python program to check whether a given string starts with a specific prefix using startswith() method.
 
