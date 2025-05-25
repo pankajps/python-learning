@@ -97,6 +97,7 @@ Sample Program:
 ```
 colors = ["red", "green", "blue"]
 print("Element at index 1:", colors[1])
+```
 
 **Q6: Write a Python program to calculate the sum of all elements in a list.**
 
