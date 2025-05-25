@@ -1,4 +1,4 @@
-day 06 problems:
+day 06 problems: (Answers are in convert.md file)
 
 ### Write a Python program to convert a string into an integer and add 10 to it.
 ### Write a Python program to check if a number is True or False based on Boolean logic.
