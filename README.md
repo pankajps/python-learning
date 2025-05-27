@@ -93,7 +93,7 @@ python_practice
 - ✅ Loops (for, while)  
 - ✅ File Handling  
 - ✅ Conditional Statements (if/elif/else)  
-- ⏳ Functions & Recursion  
+- ✅ Functions & Recursion  
 - ⏳ Object-Oriented Programming (OOP)  
 - ⏳ Exception Handling  
 - ⏳ Modules and Packages  
@@ -116,7 +116,7 @@ python_practice
 
 3. **Run a script:**
    ```bash
-   python3 basic_functions.py
+   python3 README.md
    ```
 
 
