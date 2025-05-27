@@ -67,7 +67,22 @@ python_practice
 │   └── url
 ├── day17_modules
 │   └── url
+├── mini-projects
+│   ├── project1
+│   │   └── README.md
+│   └── project2
+│       └── README.md
+├── package
+│   ├── README.md
+│   ├── pyproject.toml
+│   ├── src
+│   │   └── package_name
+│   │       ├── __init__.py
+│   │       └── package.py
+│   └── tests
+│       └── README.md
 └── scripts
+    └── README.md
 
 ```
 
