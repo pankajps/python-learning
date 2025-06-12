@@ -1,0 +1,6 @@
+Date,Region,Product,Quantity,UnitPrice
+2025-06-01,North,Widget A,10,20.5
+2025-06-01,South,Widget B,5,30.0
+2025-06-02,East,Widget A,8,20.5
+2025-06-02,West,Widget C,3,45.0
+2025-06-03,North,Widget B,7,30.0

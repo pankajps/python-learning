@@ -1,0 +1,24 @@
+[
+  {
+    "id": 101,
+    "name": "Alice Johnson",
+    "department": "Engineering",
+    "skills": ["Python", "Django", "Docker"],
+    "salary": 75000
+  },
+  {
+    "id": 102,
+    "name": "Bob Smith",
+    "department": "Marketing",
+    "skills": ["SEO", "Content Writing"],
+    "salary": 60000
+  },
+  {
+    "id": 103,
+    "name": "Charlie Lee",
+    "department": "HR",
+    "skills": ["Recruiting", "Employee Relations"],
+    "salary": 58000
+  }
+]
+
